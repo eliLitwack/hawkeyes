@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scenes/eyetracker_scene.unity
+  isLoaded: 1
+  isActive: 1
